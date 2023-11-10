@@ -1,0 +1,22 @@
+{
+  "name": "imzo_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assemblyai": "^3.0.0",
+    "axios": "^1.6.0",
+    "firebase": "^10.6.0",
+    "nodemon": "^3.0.1",
+    "telegraf-pagination": "^1.4.1",
+    "telegraf-wit": "^2.1.0",
+    "telegram-keyboard": "^2.3.3"
+  }
+}
